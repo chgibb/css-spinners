@@ -1,5 +1,6 @@
 CSS Spinners
 ===========
+Forked from [here](https://github.com/jlong/css-spinners)  
 
 Simple CSS loading indicators made with CSS and minimal HTML markup.
 
